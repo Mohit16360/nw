@@ -1,0 +1,47 @@
+* {
+    background-color: antiquewhite;
+}
+
+h1 {
+    font-size: 25px;
+    color: #0f5865;
+}
+
+button {
+    background-color: #84b512;
+}
+
+#signup {
+    background-color: #0f5865;
+}
+
+span {
+    color: #fcca46;
+}
+
+.tg{
+    color: chocolate;
+}
+
+#signup:hover {
+    background-color: #fcca46;
+}
+
+button:hover {
+    background-color: #fcca46;
+}
+
+.post a {
+    text-decoration: none;
+}
+
+.post a:hover{
+    text-decoration: underline;
+    color: aqua;
+}
+
+.post button:active{
+    background-color: rgb(184, 204, 241);
+    
+}
+
